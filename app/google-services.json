@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085709624999",
+    "project_id": "provalogin-456f9",
+    "storage_bucket": "provalogin-456f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085709624999:android:b64ef211fde85604f45d82",
+        "android_client_info": {
+          "package_name": "com.igor.provalogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiC2EThPgNSJM9-lZdLy9hZZ6WjZBxHzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
